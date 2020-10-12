@@ -26,8 +26,8 @@ const userData = [
 	},
 	{
 		type:'suning',
-		username: '账号',
-		password: '密码'
+		username: '18176013199',
+		password: 'a13087778464'
 	},
 ];
 
